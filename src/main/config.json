@@ -1,0 +1,7 @@
+{
+	"storagePrimary":["us-east-1","bucket1"],
+	"storageSecondary":["us-west-2","bucket2"],
+	"queueParseError":["us-east-1","https://sqs.us-east-1.amazonaws.com/0xxx/msg-err"],
+	"queueAtypical":["us-east-1","https://sqs.us-east-1.amazonaws.com/0xxx/msg-analyze"],
+	"topicStats":["us-east-1","arn:aws:sns:us-east-1:0xxx:health"]
+}
